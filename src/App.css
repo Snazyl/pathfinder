@@ -1,0 +1,21 @@
+* {
+}
+
+body {
+}
+
+.nav-wrapper {
+  background-color: #3c3c3c; 
+}
+
+.brand-logo {
+  margin-left: 40%;
+}
+
+.primary {
+  color: red;
+}
+
+.grid {
+  text-align: center;
+}
